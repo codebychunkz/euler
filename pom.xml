@@ -45,7 +45,7 @@
 				<version>1.2.1</version>
 				<configuration>
 					<mainClass>com.euler${task}.Main</mainClass>
-					<executable>java</executable><!-- mvn exec:java -Dtask=59 -Dexec.args="lol 2" -->
+					<executable>java</executable>
 				</configuration>
 			</plugin>
 		</plugins>
